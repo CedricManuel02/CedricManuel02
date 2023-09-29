@@ -1,4 +1,6 @@
 # 💫 Hello, they call me Cedric:
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 👋 Hey there! I'm Cedric Manuel, a passionate BSIT student with a knack for web development. At 21, I'm diving deep into the world of technology and crafting digital experiences.<br><br>🚀 Aspiring Web Developer | 💻 Proficient in React.js | 🛠️ Love the MERN Stack<br><br>🌱 Currently honing my skills in building dynamic and user-friendly web applications using the latest technologies.<br><br>🎯 On a mission to create engaging and interactive web solutions that leave a lasting impression.<br><br>🔗 Let's connect! Feel free to explore my projects and drop me a message if you want to collaborate or just geek out about web development.<br><br>📚 Studying BSIT at Cavite State University Bacoor Campus<br><br>📍 Bacoor, Calabarzon Philippines<br><br>📧 Email: cedricmanuel02@gmail.com<br><br>🌐 Portfolio: Still in progress.
 
 
