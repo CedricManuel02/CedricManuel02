@@ -2,8 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+I'm+Cedric+Manuel;I'm+aspiring+web+developer)](https://git.io/typing-svg)<br>
 
-👋 Hey there! I'm Cedric Manuel, a passionate BSIT graduate with a knack for web development. At 22, I'm diving deep into the world of technology and crafting digital experiences.<br><br>🚀 Aspiring Web Developer | 💻 Proficient in React.js | 🛠️ Love the MERN Stack<br><br>🌱 Currently honing my skills in building dynamic and user-friendly web applications using the latest technologies.<br>🎯 On a mission to create engaging and interactive web solutions that leave a lasting impression.<br>📚 BSIT graduate at Cavite State University Bacoor Campus<br>📧 Email: cedricmanuel02@gmail.com<br><br>🌐 Portfolio: Still in progress.
-
+👋 Hey there! I'm Cedric Manuel, a passionate BSIT graduate with a knack for web development. At 22, I'm diving deep into the world of technology and crafting digital experiences.<br><br>🚀 Aspiring Web Developer | 💻 Proficient in React.js Currently honing my skills in building dynamic and user-friendly web applications using the latest technologies.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/cedricmanuel19) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cedie_manuel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cedric-manuel-763902293/) 
